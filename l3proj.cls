@@ -23,6 +23,7 @@
 \usepackage{graphicx}
 \fi
 
+\usepackage{float}
 \usepackage [colorlinks=true]{hyperref}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{11pt plus 2pt}
